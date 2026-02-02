@@ -1,7 +1,12 @@
-# Superstore Sales – Power BI Dashboard
+# Superstore Sales – Power BI Dashboard (In Progress)
 
 ## 📖 Overview
-This project contains an interactive Power BI dashboard built using the Superstore Sales dataset. The dashboard provides insights into sales performance, profitability, customer segments, product categories, and regional trends.
+This repository will contain the Power BI version of the Superstore Sales dashboard.  
+The Looker Studio version of this project is already completed and available here:
+
+👉 **https://github.com/Taiwof/superstore-looker-dashboard**
+
+The Power BI dashboard will provide insights into sales performance, profitability, customer segments, product categories, and regional trends.
 
 ## 🎯 Objectives
 - Identify high-performing and low-performing product categories  
@@ -10,12 +15,13 @@ This project contains an interactive Power BI dashboard built using the Supersto
 - Highlight loss-making products and discount impact  
 - Provide actionable insights for business decisions  
 
-## 📂 Project Structure
+## 📂 Planned Project Structure
 - `data/` – Superstore dataset (CSV or Excel)  
 - `dashboard/` – Power BI `.pbix` file  
+- `screenshots/` – Dashboard images (to be added)  
 - `README.md` – Project documentation  
 
-## 📊 Dashboard Features
+## 📊 Planned Dashboard Features
 - **Sales Overview:** Total sales, profit, quantity  
 - **Category & Sub-Category Analysis:** Profitability and performance  
 - **Regional Breakdown:** Sales and profit by region and state  
@@ -35,4 +41,4 @@ This project contains an interactive Power BI dashboard built using the Supersto
 - Add a customer-level deep dive  
 
 ## 📌 Notes
-The `.pbix` file will be uploaded once the dashboard is completed.
+The `.pbix` file and screenshots will be uploaded once the Power BI dashboard is completed.
